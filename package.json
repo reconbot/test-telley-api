@@ -5,9 +5,8 @@
   "scripts": {
     "deploy": "arc deploy staging --no-hydrate"
   },
-  "devDependencies": {
+  "dependencies": {
     "@architect/architect": "^8.5.3",
-    "@architect/sandbox": "^3.3.4",
-    "aws-sdk": "^2.826.0"
+    "aws-sdk": "^2.883.0"
   }
 }
