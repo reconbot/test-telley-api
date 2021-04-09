@@ -12,15 +12,6 @@
   },
   "dependencies": {
     "@architect/functions": "git+https://github.com/reconbot/functions.git#9994014",
-    "apollo-server-lambda": "^2.19.1",
-    "aws-sdk": "^2.826.0",
-    "graphql": "^15.5.0",
-    "graphql-playground-middleware-lambda": "^1.7.23",
-    "graphql-query-complexity": "^0.7.2",
-    "jsonwebtoken": "^8.5.1",
-    "nexus": "^1.0.0",
-    "node-fetch": "^2.6.1",
-    "streaming-iterables": "^5.0.4",
-    "uuidv4": "^6.2.6"
+    "aws-sdk": "^2.826.0"
   }
 }
