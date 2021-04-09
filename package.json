@@ -8,10 +8,6 @@
   "devDependencies": {
     "@architect/architect": "^8.5.3",
     "@architect/sandbox": "^3.3.4",
-    "dotenv": "^8.2.0"
-  },
-  "dependencies": {
-    "@architect/functions": "git+https://github.com/reconbot/functions.git#9994014",
     "aws-sdk": "^2.826.0"
   }
 }
